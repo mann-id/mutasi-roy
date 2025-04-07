@@ -5,8 +5,8 @@ import chalk from 'chalk';
 import osu from 'node-os-utils';
 import express from 'express';
 
-const username = "xxx"
-const apikey = "xxx"
+const username = "OK1666484"
+const apikey = "863463217401195201666484OKCT0C35E392D85B6D4587E5D4153963E8B7"
 
 
 const app = express();
